@@ -22,8 +22,7 @@ namespace NLAPI
                 app.UseSwaggerUI();
 
 
-
-
+                //app.Userger()test code
             }
 
             app.UseHttpsRedirection();
