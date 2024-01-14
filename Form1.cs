@@ -43,6 +43,7 @@ namespace NLGUI
 
         private void label2_Click(object sender, EventArgs e)
         {
+            //test code in github
 
         }
     }
